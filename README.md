@@ -1,6 +1,6 @@
-This repository contains the Jupyter Notebook for an multi-class classifier model I trained and validated using the animals10 dataset on Kaggle.
+This repository contains the Jupyter Notebook for a multi-class classifier model I trained and validated using the animals10 dataset on Kaggle.
 
-The animals10 dataset is imbalanced so I used a number of techniques to address this, including weighted random sampling and augmentations on the training dataset.
+The animals10 dataset is imbalanced, so I used a number of techniques to address this, including weighted random sampling and augmentations on the training dataset.
 
 I trained the model for 30 epochs and achieved an overall F1 score of 0.78 on my best model, along with an overall accuracy of 79.4%.
 
